@@ -77,8 +77,8 @@ The backend exposes these tools via MCP:
 ### 1. Clone and install dependencies
 
 ```bash
-git clone https://github.com/yourusername/lager.git
-cd lager
+git clone https://github.com/PolsaFH/lager-backend.git
+cd lager-backend
 pip install -r requirements.txt
 ```
 
@@ -124,7 +124,7 @@ Categories supported: Transistors, Capacitors, Microcontrollers, LEDs, Resistors
 
 The iOS/Android app is a separate repository built with **React Native (Expo) and TypeScript**. It includes the camera flow for AI scanning, component browsing, quantity editing, and the activity log.
 
-👉 [lager-app repo](https://github.com/yourusername/lager-app)
+👉 [lager-app repo](https://github.com/PolsaFH/lager-app)
 
 ## Background
 
