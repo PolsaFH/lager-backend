@@ -1,0 +1,5 @@
+mysql-connector-python
+anthropic
+uvicorn
+fastapi
+python-multipart
