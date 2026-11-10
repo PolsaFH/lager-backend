@@ -1,5 +1,4 @@
-mysql-connector-python
-anthropic
-uvicorn
-fastapi
-python-multipart
+anthropic>=0.40
+mysql-connector-python>=8.0
+# Optional, but strongly recommended: small thumbnails for smooth scrolling in the app
+Pillow>=9.0
